@@ -1,0 +1,30 @@
+# Large data files
+nuscenes_data/
+v1.0-mini.tgz
+*.tgz
+*.tar.gz
+
+# Model weights
+yolov8n.pt
+*.pt
+*.pth
+*.onnx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+src/__pycache__/
+.pytest_cache/
+
+# COLMAP binary outputs
+outputs/colmap_height/colmap_ws/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+.env
+*.egg-info/
+dist/
+build/

@@ -1,0 +1,10 @@
+numpy>=1.21
+matplotlib>=3.5
+opencv-python>=4.5
+scipy>=1.7
+Pillow>=9.0
+pandas>=1.3
+
+# nuScenes SDK (install separately after dataset registration)
+# nuscenes-devkit>=1.1.9
+# pyquaternion>=0.9.9

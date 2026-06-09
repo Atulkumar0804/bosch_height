@@ -1,0 +1,18 @@
+{
+  "n_real": 7,
+  "n_rend": 7,
+  "cnt_real": {
+    "car": 2,
+    "person": 2,
+    "traffic light": 3
+  },
+  "cnt_rend": {
+    "car": 2,
+    "traffic light": 2,
+    "person": 3
+  },
+  "matched": 3,
+  "missed": 4,
+  "new_det": 4,
+  "conf_drop": -0.1762320895989736
+}
